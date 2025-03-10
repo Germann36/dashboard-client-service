@@ -15,7 +15,7 @@
 ## Реализация
 - В документе [development.md](development.md) описана разработка дашборда в **Power BI**.
 - В документе [data-mart.md](data-mart.md) разобран процесс создания витрины данных в **PostgreSQL**.
-- В документе [contact-centr.ipynb](contact-centr.ipynb) начальные этапы создания витрины на **Python** (**SQLAlchemy** и **pandas**).
+- В документе [client-service.ipynb](client-service.ipynb) начальные этапы создания витрины на **Python** (**SQLAlchemy** и **pandas**).
 
 ## Примечание
 Данные являются искусственными и созданы для демонстрационных целей.
